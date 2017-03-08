@@ -2,7 +2,6 @@
 package dg_src;
 
 public class test23 {
-	tttt
-dddffgggg
+   This is a test.
 
 }
